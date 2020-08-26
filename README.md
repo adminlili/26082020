@@ -1,5 +1,5 @@
-script on bash #1 to ansible-playbook.
-initial 7.
+script on bash #2 to ansible-playbook.
+initial 8.
 without roles.
-20-08-2020.
+26-08-2020.
 for CentOS7 and CentOS8.
